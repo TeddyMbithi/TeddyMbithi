@@ -30,7 +30,7 @@ I’m hooked on solving problems with tech—whether it’s building a snappy e-
 
 
 
-🔭 Working on a React app with a custom API backend to streamline [your project idea].
+🔭 Working on a React app with a custom API backend to streamline your project 
 
 
 
