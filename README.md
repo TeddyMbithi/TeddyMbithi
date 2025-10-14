@@ -1,5 +1,5 @@
 🌟 Web Wizard & API Architect 🌟
-👋 Hey there! I’m a passionate developer from [Your Location], weaving magic with code to build dynamic, user-friendly web apps. My playground? Crafting sleek frontends with React, styling them to perfection with HTML and CSS, and powering them with robust APIs and SQL databases. I live for clean code, seamless Git workflows, and turning ideas into digital reality! 🚀
+👋 Hey there! I’m a passionate developer. Weaving magic with code to build dynamic, user-friendly web apps. My playground? Crafting sleek frontends with React, styling them to perfection with HTML and CSS, and powering them with robust APIs and SQL databases. I live for clean code, seamless Git workflows, and turning ideas into digital reality! 🚀
 
 💻 My Tech Toolkit:
 
@@ -63,6 +63,5 @@ When I’m not debugging or pushing commits, you’ll find me sipping tea ☕, b
 
 
 
-⚡ Fun Fact: I treat every API call like a conversation—smooth, reliable, and full of possibilities!
 
 Let’s build something awesome together—drop me a line, and let’s code the future! 💾✨
