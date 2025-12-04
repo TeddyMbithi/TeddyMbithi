@@ -1,67 +1,65 @@
-🌟 Web Wizard & API Architect 🌟
-👋 Hey there! I’m a passionate developer. Weaving magic with code to build dynamic, user-friendly web apps. My playground? Crafting sleek frontends with React, styling them to perfection with HTML and CSS, and powering them with robust APIs and SQL databases. I live for clean code, seamless Git workflows, and turning ideas into digital reality! 🚀
+Hi there 👋! I'm Teddy, a cybersecurity enthusiast and malware analysis professional. I specialize in uncovering the inner workings of malicious software and applying my findings to improve security measures and defense strategies. Here, you'll find a collection of my projects, tools, and research contributions related to Malware Analysis, Cyber Threat Intelligence, and Cybersecurity.
 
-💻 My Tech Toolkit:
+🔍 About Me
 
+Profession: Malware Analyst | Cybersecurity Engineer
 
+Skills:
 
+Static and Dynamic Malware Analysis
 
+Reverse Engineering (IDA Pro, Ghidra, OllyDbg)
 
-Frontend Flair: HTML, CSS, React—building responsive, eye-catching interfaces that users love.
+Sandbox Analysis (Cuckoo, Any.Run)
 
+Threat Intelligence and Indicator of Compromise (IOC) Detection
 
+Memory Forensics (Volatility, Rekall)
 
-API Mastery: Designing and integrating RESTful APIs to connect apps with the world.
+Python, Bash, and PowerShell Scripting for Automation and Analysis
 
+OSINT and Incident Response
 
+ Malware Collection
 
-Data Dynamo: SQL for crafting efficient, scalable databases that keep things running smoothly.
+A curated repository of public malware samples, categorized by type (e.g., Ransomware, Trojans, Spyware). Intended for educational and research purposes.
 
+⚡ Static Analysis Toolkit
 
+A set of tools for performing static analysis on malware binaries, using disassemblers, decompilers, and string analysis tools.
 
-Git Guru: Version control with Git, ensuring every commit tells a story.
+💥 IOC Extractor
 
-What Fuels Me:
-I’m hooked on solving problems with tech—whether it’s building a snappy e-commerce site, optimizing a database query, or integrating a third-party API to add that extra sparkle. I believe great code is like art: functional, beautiful, and impactful. I’m always tinkering with new React components, exploring API endpoints, or refining my CSS to make every pixel pop.
+A Python tool for extracting Indicators of Compromise (IOCs) from suspicious files and URLs. It integrates with various threat intelligence feeds.
 
-🔧 Current Quests:
+🛡️ Security Best Practices for Malware Researchers
 
+Documentation and recommendations on secure environments, methods, and workflows for effective and safe malware analysis.
 
+📘 Blog and Research
 
+I occasionally write about my research, findings, and analysis in the field of cybersecurity. You can check out my blog or research papers here:
 
-
-🔭 Working on a React app with a custom API backend to streamline your project 
-
-
-
-🌱 Learning advanced React hooks and GraphQL to level up my skills.
-
-
-
-👯 Eager to collaborate on open-source projects involving APIs or React.
-
-
-
-🤝 Seeking help with mastering real-time APIs for dynamic apps.
-
-🌍 Impact & Community:
-I’m all about using tech for good—think apps that make life easier, from local business tools to community platforms. I love contributing to open-source, sharing snippets on Git, and learning from the global dev community. Got a project that needs a frontend facelift or a database tune-up? Let’s team up!
-
-🎉 Beyond the Code:
-When I’m not debugging or pushing commits, you’ll find me sipping tea ☕, binge-watching tech talks, or sketching wireframes for my next big idea. I’m a curious soul, always chasing the next framework or API docs to devour. Fun fact: I once styled an entire app in one night just to match my favorite color palette! 🎨
-
-📬 Let’s Connect:
+https://x.com/_lazerguard
 
 
 
+📚 Tools I Use
+
+Malware Analysis: IDA Pro, Ghidra, PEStudio, OllyDbg, x64dbg
+
+Virtualization: VirtualBox
+
+Sandboxing: Any.Run, Hybrid Analysis
+
+Scripting: Bash, PowerShell
+
+Forensics: Volatility, Rekall, Wireshark
+
+Reverse Engineering: Binary Ninja, Radare2, Ghidra
 
 
-📫 Email: teddymbithi85@gmail.com
 
+If you're interested in collaborating or discussing malware research, feel free to open an issue or submit a pull request!
 
-
-
-
-
-
-Let’s build something awesome together—drop me a line, and let’s code the future! 💾✨
+If you found any of my projects useful, consider starring them or sharing them with others. It helps a lot! ⭐
