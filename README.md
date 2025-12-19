@@ -1,48 +1,98 @@
-Hi there 👋! I'm Teddy, a cybersecurity enthusiast and malware analysis professional. I specialize in uncovering the inner workings of malicious software and applying my findings to improve security measures and defense strategies. Here, you'll find a collection of my projects, tools, and research contributions related to Malware Analysis, Cyber Threat Intelligence, and Cybersecurity.
+# 👋 Hi, I'm Teddy Mbithi
 
-🔍 About Me
+## 🛡️ Malware Analysis | Exploit Development | Reverse Engineering
 
-Profession: Malware Analyst | Cybersecurity Engineer
+I'm a **cybersecurity learner focused on malware analysis and exploit development** with a strong interest in:
 
-Skills:
+* Malware reverse engineering
+* Exploit development & vulnerability research
+* Threat intelligence & IOC extraction
+* Automated malware analysis
 
-Static and Dynamic Malware Analysis
-Reverse Engineering (IDA Pro, Ghidra, OllyDbg)
-Sandbox Analysis (Cuckoo, Any.Run)
-Threat Intelligence and Indicator of Compromise (IOC) Detection
-Memory Forensics (Volatility, Rekall)
-Python, Bash, and PowerShell Scripting for Automation and Analysis
-OSINT and Incident Response
+I enjoy breaking down malicious software, understanding attacker techniques at a low level, and building tools to analyze, exploit, and mitigate threats.
 
-Malware Collection
-A curated repository of public malware samples, categorized by type (e.g., Ransomware, Trojans, Spyware). Intended for educational and research purposes.
+---
 
-⚡ Static Analysis Toolkit
-A set of tools for performing static analysis on malware binaries, using disassemblers, decompilers, and string analysis tools.
+## 🧠 Skills & Tools
 
-💥 IOC Extractor
-A Python tool for extracting Indicators of Compromise (IOCs) from suspicious files and URLs. It integrates with various threat intelligence feeds.
+**Programming & Scripting**
 
-🛡️Security Best Practices for Malware Researchers
-Documentation and recommendations on secure environments, methods, and workflows for effective and safe malware analysis.
+* Python
+* Bash
+* C (basic / reverse engineering context)
 
-📘 Blog and Research
-I occasionally write about my research, findings, and analysis in the field of cybersecurity. You can check out my blog or research papers here:
+**Malware Analysis & RE Tools**
 
-https://x.com/_lazerguard
+* Ghidra
+* IDA (basic)
+* x64dbg / WinDbg
+* PE Studio
+* YARA
+* pwntools
 
+**Cybersecurity Domains**
 
+* Malware analysis (static & dynamic)
+* Exploit development (basic)
+* Vulnerability research
+* Threat intelligence
+* Windows internals & memory concepts
 
-📚 Tools I Use
-Malware Analysis: IDA Pro, Ghidra, PEStudio, OllyDbg, x64dbg
-Virtualization: VirtualBox
-Sandboxing: Any.Run, Hybrid Analysis
-Scripting: Bash, PowerShell
-Forensics: Volatility, Rekall, Wireshark
-Reverse Engineering: Binary Ninja, Radare2, Ghidra
+---
 
+## 🚀 Featured Projects
 
+🧨 **Exploit Development**
+Proof‑of‑concept exploits, vulnerability research, and learning exercises (stack overflows, shellcode, mitigations).
 
-If you're interested in collaborating or discussing malware research, feel free to open an issue or submit a pull request!
+🔍 **Malware Analysis Tools**
+Short description of what the tool does, the problem it solves, and the techniques used.
 
-If you found any of my projects useful, consider starring them or sharing them with others. It helps a lot! ⭐
+🧪 **Analysis Reports / Labs**
+Documented malware samples, indicators of compromise (IOCs), and findings.
+
+⚙️ **Automation Scripts**
+Python tools for extracting strings, hashes, metadata, or automating analysis workflows.
+
+> 📌 *Pinned repositories below showcase my best and most relevant cybersecurity work.*
+
+---
+
+## 🎓 Learning & Certifications
+
+* GitHub Student Developer Pack (active)
+* Self‑study in malware analysis & reverse engineering
+* Online labs and coursework (TryHackMe / Hack The Box / similar)
+
+🧭 **Currently Learning:**
+
+* Advanced exploit development techniques
+* Windows & Linux binary exploitation
+* Memory corruption vulnerabilities
+* Malware C2 & persistence mechanisms
+
+---
+
+## 📈 GitHub Activity
+
+* Consistent hands‑on learning through projects
+* Experimentation with real‑world malware samples (safely & ethically)
+* Improving documentation and tooling
+
+---
+
+## 🤝 Open to Collaboration
+
+I'm interested in:
+
+* Open‑source cybersecurity tools
+* Malware research collaboration
+* Blue‑team and defensive security projects
+
+📫 **Connect with me:**
+
+* GitHub: [https://github.com/TeddyMbithi](https://github.com/TeddyMbithi)
+
+---
+
+> ⚠️ *All malware analysis and exploit development work is conducted in isolated, controlled environments for educational and ethical research purposes only.*
